@@ -44,8 +44,8 @@ Toggle pause/play: MUTE<br>
 Increase Ref Temperature: Volume UP<br>
 Decrease Ref Temperature: Volume DOWN<br>
 Toggle pause/play: MUTE<br>
-
-### Authors/Acknowledgements
+<br>
+#### Authors/Acknowledgements
 De Boi, Lucas<br>
 Lelescu, Daniel<br>
-Ecole Polytechnique de Lausanne
+Ecole Polytechnique de Lausanne (EPFL), 2026
