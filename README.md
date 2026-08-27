@@ -1,7 +1,7 @@
 ## Temperature-Reactive Remote-Controlled Fan 🪭
 Embedded systems project to simulate a smart ceiling fan
 <br><br><br>
-**Demo -** https://youtu.be/5JTl2SQssU4?si=PG7SxPEiQByE4sl_ 
+**Demo -** https://youtu.be/5JTl2SQssU4?si=PG7SxPEiQByE4sl 
 
 **Project Report -** docs/MCU2026-G056.pdf (in French)
 <br><br>
