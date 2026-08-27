@@ -1,4 +1,4 @@
-## Temperature-Reactive Remote-Controlled Fan
+## Temperature-Reactive Remote-Controlled Fan 🪭
 Embedded systems project to simulate a smart ceiling fan
 <br><br><br>
 **Demo -** https://youtu.be/5JTl2SQssU4?si=PG7SxPEiQByE4sl_ 
@@ -7,11 +7,11 @@ Embedded systems project to simulate a smart ceiling fan
 <br><br>
 ### Overview
 Modular firmware system with an FSM for switching between modes and handling requests <br>
-Automatic mode (temperature-based, with variable reference temperature) and Manual mode (remote-based, speeds 1-9) <br>
+Automatic mode (temperature-based, with variable reference temperature) and Manual mode (remote-based, speeds 1-9) <br> 
 LCD Screen and Buzzer for visual and audio interfaces, Servo motor to simulate fan spin <br>
-University project required that 4 peripherals must be used, and for all code to be written in Assembly <br>
+EPFL project required 4 peripheral modules, and for all code to be written in Assembly ☑️ <br>
 
-### Hardware
+### Hardware ⚙️
 - Atmel STK300 AVR Development Board
 with ATMega128 Microcontroller<br>
 - DS18B20 1-Wire Digital Thermometer<br>
@@ -21,7 +21,7 @@ with ATMega128 Microcontroller<br>
 - HD44780U Hitachi LCD Screen<br>
 - SG90 9g Micro Servo<br>
 
-### Setup
+### Setup 💻
 - Atmel Studio 7 for code editing and debugging in Assembly<br>
 - AVRISP-U to program STK300<br>
 - Attachment of peripheral modules<br>
@@ -32,7 +32,7 @@ with ATMega128 Microcontroller<br>
   - LCD Screen - complementary row of pins near ATMega128
 
 
-### Usage
+### Usage 💡
 **Manual Mode: Channel UP**<br>
 **Automatic Mode: Channel DOWN**<br>
 <br>
@@ -44,3 +44,8 @@ Toggle pause/play: MUTE<br>
 Increase Ref Temperature: Volume UP<br>
 Decrease Ref Temperature: Volume DOWN<br>
 Toggle pause/play: MUTE<br>
+
+### Authors/Acknowledgements
+De Boi, Lucas<br>
+Lelescu, Daniel<br>
+Ecole Polytechnique de Lausanne
