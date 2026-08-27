@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Atmel Studio / Visual Studio
+.vs/
+Debug/
+Release/
+*.atsuo
+*.obj
+*.tmp
+*.lss
+*.map
+*.hex
+*.eep
+*.elf
+
+# Editor
+.vscode/
