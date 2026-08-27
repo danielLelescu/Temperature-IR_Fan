@@ -20,3 +20,27 @@ with ATMega128 Microcontroller<br>
 - MCKPT-G1712A-3921 Piezo Transducer (Buzzer)<br>
 - HD44780U Hitachi LCD Screen<br>
 - SG90 9g Micro Servo<br>
+
+### Setup
+- Atmel Studio 7 for code editing and debugging in Assembly<br>
+- AVRISP-U to program STK300<br>
+- Attachment of peripheral modules<br>
+  - Digital Thermometer - PORT D, Pin 5
+  - IR Receiver - PORT E, Pin 7
+  - Buzzer - PORT E, Pin 2
+  - Servo - PORT B, Pin 5
+  - LCD Screen - complementary row of pins near ATMega128
+
+
+### Usage
+**Manual Mode: Channel UP**<br>
+**Automatic Mode: Channel DOWN**<br>
+<br>
+**Controls in Manual Mode**<br>
+Fan Speed: buttons 1-9<br>
+Toggle pause/play: MUTE<br>
+<br>
+**Controls in Automatic Mode**<br>
+Increase Ref Temperature: Volume UP<br>
+Decrease Ref Temperature: Volume DOWN<br>
+Toggle pause/play: MUTE<br>
