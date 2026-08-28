@@ -44,8 +44,8 @@ Increase Ref Temperature: Volume UP<br>
 Decrease Ref Temperature: Volume DOWN<br>
 Toggle pause/play: MUTE<br>
 <br><br>
-**For details on usage, project structure, protocols, and more, kindly reference our Project Report<br>**
-<br><br>
+**For details on usage, project structure, protocols, and more, kindly reference our Project Report** <br>
+<br>
 
 ### Authors/Acknowledgements
 De Boi, Lucas<br>
