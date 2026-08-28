@@ -21,7 +21,7 @@ with ATMega128 Microcontroller<br>
 - HD44780U Hitachi LCD Screen<br>
 - SG90 9g Micro Servo<br>
 
-### Setup 💻
+### Our Setup 💻
 - Atmel Studio 7 for code editing and debugging in Assembly<br>
 - AVRISP-U to program STK300<br>
 - Attachment of peripheral modules<br>
@@ -30,7 +30,6 @@ with ATMega128 Microcontroller<br>
   - Buzzer - PORT E, Pin 2
   - Servo - PORT B, Pin 5
   - LCD Screen - complementary row of pins near ATMega128
-
 
 ### Usage 💡
 **Manual Mode: Channel UP**<br>
@@ -47,7 +46,8 @@ Toggle pause/play: MUTE<br>
 <br><br>
 **For details on usage, project structure, protocols, and more, kindly reference our Project Report<br>**
 <br><br>
-#### Authors/Acknowledgements
+
+### Authors/Acknowledgements
 De Boi, Lucas<br>
 Lelescu, Daniel<br>
 Ecole Polytechnique de Lausanne (EPFL), 2026
